@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! I'm Mongalmoy Karmakar 👋
+
+- 🔭 I’m currently working as Frontend Developer in TCS
 
 <!--
 **mongalmoy/mongalmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <p>Tech Skills:</p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,react,node,express,mongodb)](https://skillicons.dev)
