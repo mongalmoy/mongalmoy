@@ -1,4 +1,4 @@
-### <p style="font-size: 32px">Hey there! I'm Mongalmoy Karmakar 👋</p>
+### <p style="font-size: 64px">Hey there! I'm Mongalmoy Karmakar 👋</p>
 
 - 🔭 I’m currently working as Frontend Developer in [TCS](https://www.tcs.com)
 
