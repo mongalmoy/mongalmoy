@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <p>Tech Skills:</p>
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,react,node,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,react,nodejs,express,mongodb)](https://skillicons.dev)
