@@ -1,4 +1,4 @@
-# <p style="font-size: 64px;">Hey there! I'm Mongalmoy Karmakar 👋</p>
+# <p style="font-size: 80px;">Hey there! I'm Mongalmoy Karmakar 👋</p>
 
 - 🔭 I’m currently working as Frontend Developer in [TCS](https://www.tcs.com)
 
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <p>Tech Skills:</p>
+# <p>Tech Skills:</p>
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,react,nodejs,express,mongodb)](https://skillicons.dev)
