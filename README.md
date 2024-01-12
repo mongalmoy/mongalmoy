@@ -1,6 +1,6 @@
 ### Hey there! I'm Mongalmoy Karmakar 👋
 
-- 🔭 I’m currently working as Frontend Developer in TCS
+- 🔭 I’m currently working as Frontend Developer in [TCS](https://www.tcs.com)
 
 <!--
 **mongalmoy/mongalmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
