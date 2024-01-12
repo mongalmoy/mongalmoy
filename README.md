@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <span style="font-size: 16px;">Tech Skills:</p>
+## <span>Tech Skills:</p>
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,react,nodejs,express,mongodb)](https://skillicons.dev)
