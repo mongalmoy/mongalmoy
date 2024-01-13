@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mongalmoy" alt="mongalmoy" /></a> </p>
 
-- 🔭 I’m currently working on [TCS](https://www.tcs.com/)
+- 🔭 I’m currently working in [TCS](https://www.tcs.com/)
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 
